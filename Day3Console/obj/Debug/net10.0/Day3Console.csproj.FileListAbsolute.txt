@@ -1,0 +1,14 @@
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.AssemblyInfoInputs.cache
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.AssemblyInfo.cs
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.csproj.CoreCompileInputs.cache
+D:\CAPGEM\Day3Console\bin\Debug\net10.0\Day3Console.exe
+D:\CAPGEM\Day3Console\bin\Debug\net10.0\Day3Console.deps.json
+D:\CAPGEM\Day3Console\bin\Debug\net10.0\Day3Console.runtimeconfig.json
+D:\CAPGEM\Day3Console\bin\Debug\net10.0\Day3Console.dll
+D:\CAPGEM\Day3Console\bin\Debug\net10.0\Day3Console.pdb
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.dll
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\refint\Day3Console.dll
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.pdb
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\Day3Console.genruntimeconfig.cache
+D:\CAPGEM\Day3Console\obj\Debug\net10.0\ref\Day3Console.dll

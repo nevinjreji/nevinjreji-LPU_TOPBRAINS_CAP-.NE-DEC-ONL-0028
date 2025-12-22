@@ -1,0 +1,11 @@
+//CAPG - Pankaj Ramesh Patil
+if we have a main func then exe file is generated 
+if we do not have a main func then dll file is generated
+
+security - 2 types
+CLS , CLR , CTS
+
+
+COM , DCOM , DLL , REMOTING , MSMQ , WEB SERVICES , WCF , WEB API
+
+WINDOWS COMMUNICATION FOUNDATION

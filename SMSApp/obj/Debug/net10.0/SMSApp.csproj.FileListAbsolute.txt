@@ -1,0 +1,14 @@
+D:\CAPGEM\SMSApp\bin\Debug\net10.0\SMSApp.exe
+D:\CAPGEM\SMSApp\bin\Debug\net10.0\SMSApp.deps.json
+D:\CAPGEM\SMSApp\bin\Debug\net10.0\SMSApp.runtimeconfig.json
+D:\CAPGEM\SMSApp\bin\Debug\net10.0\SMSApp.dll
+D:\CAPGEM\SMSApp\bin\Debug\net10.0\SMSApp.pdb
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.AssemblyInfoInputs.cache
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.AssemblyInfo.cs
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.csproj.CoreCompileInputs.cache
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.dll
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\refint\SMSApp.dll
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.pdb
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\SMSApp.genruntimeconfig.cache
+D:\CAPGEM\SMSApp\obj\Debug\net10.0\ref\SMSApp.dll
