@@ -1,0 +1,62 @@
+Here is the **cleaned, corrected, and beautified question statement**, without adding any extra content:
+
+---
+
+## 2. MovieStock
+
+### Functionalities
+
+In the `Movie` class, implement the following properties:
+
+| Data Type | Property Name |
+| --------- | ------------- |
+| string    | Title         |
+| string    | Artist        |
+| string    | Genre         |
+| int       | Ratings       |
+
+In the `Program` class, a public static `List<Movie>` named `MovieList` is already provided in the code template.
+    
+Implement the features listed below.
+
+---
+
+### Methods
+
+```csharp
+public void AddMovie(string movieDetails)
+public List<Movie> ViewMoviesByGenre(string genre)
+public List<Movie> ViewMoviesByRatings()
+```
+
+---
+
+### Method Description
+
+1. **AddMovie(string movieDetails)**
+   This method is used to add movie details to the `MovieList`.
+
+   * The movie details are passed as a single string separated by commas.
+   * Convert the given string into a `Movie` object.
+   * Each `Movie` object should be added to the `MovieList`.
+
+2. **ViewMoviesByGenre(string genre)**
+   This method is used to find movie details based on the given genre.
+
+   * If movies are available for the specified genre in the `MovieList`, store them in a `List<Movie>` and return it.
+   * If no movies are available for the given genre, return an empty list and print
+     **"No Movies found in genre '(genre)'"**
+     in the `Main` method.
+
+3. **ViewMoviesByRatings()**
+   This method sorts the movies based on their ratings in ascending order and returns the sorted list.
+
+---
+
+### Main Method Requirements
+
+1. Get the required values from the user.
+2. Call the above methods accordingly and display the results.
+3. In the sample input/output provided, the **highlighted text in bold** corresponds to the user input, and the remaining text represents the output.
+
+---
