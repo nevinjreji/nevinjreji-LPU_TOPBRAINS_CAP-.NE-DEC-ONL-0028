@@ -1,0 +1,15 @@
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.AssemblyInfoInputs.cache
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.AssemblyInfo.cs
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.sourcelink.json
+D:\CAPGEM\EventsAndDelegates\bin\Debug\net10.0\EventsAndDelegates.exe
+D:\CAPGEM\EventsAndDelegates\bin\Debug\net10.0\EventsAndDelegates.deps.json
+D:\CAPGEM\EventsAndDelegates\bin\Debug\net10.0\EventsAndDelegates.runtimeconfig.json
+D:\CAPGEM\EventsAndDelegates\bin\Debug\net10.0\EventsAndDelegates.dll
+D:\CAPGEM\EventsAndDelegates\bin\Debug\net10.0\EventsAndDelegates.pdb
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.dll
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\refint\EventsAndDelegates.dll
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.pdb
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\EventsAndDelegates.genruntimeconfig.cache
+D:\CAPGEM\EventsAndDelegates\obj\Debug\net10.0\ref\EventsAndDelegates.dll

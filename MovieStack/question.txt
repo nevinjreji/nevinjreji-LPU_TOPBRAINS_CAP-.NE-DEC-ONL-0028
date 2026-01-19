@@ -1,7 +1,3 @@
-Here is the **cleaned, corrected, and beautified question statement**, without adding any extra content:
-
----
-
 ## 2. MovieStock
 
 ### Functionalities
@@ -16,7 +12,7 @@ In the `Movie` class, implement the following properties:
 | int       | Ratings       |
 
 In the `Program` class, a public static `List<Movie>` named `MovieList` is already provided in the code template.
-    
+
 Implement the features listed below.
 
 ---

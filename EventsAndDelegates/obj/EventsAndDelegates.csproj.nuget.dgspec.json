@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CAPGEM\\DemoApp\\DemoApp.csproj": {}
+    "D:\\CAPGEM\\EventsAndDelegates\\EventsAndDelegates.csproj": {}
   },
   "projects": {
-    "D:\\CAPGEM\\DemoApp\\DemoApp.csproj": {
+    "D:\\CAPGEM\\EventsAndDelegates\\EventsAndDelegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAPGEM\\DemoApp\\DemoApp.csproj",
-        "projectName": "DemoApp",
-        "projectPath": "D:\\CAPGEM\\DemoApp\\DemoApp.csproj",
+        "projectUniqueName": "D:\\CAPGEM\\EventsAndDelegates\\EventsAndDelegates.csproj",
+        "projectName": "EventsAndDelegates",
+        "projectPath": "D:\\CAPGEM\\EventsAndDelegates\\EventsAndDelegates.csproj",
         "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-        "outputPath": "D:\\CAPGEM\\DemoApp\\obj\\",
+        "outputPath": "D:\\CAPGEM\\EventsAndDelegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
