@@ -1,0 +1,15 @@
+D:\TOPBRAINS\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.exe
+D:\TOPBRAINS\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.deps.json
+D:\TOPBRAINS\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.runtimeconfig.json
+D:\TOPBRAINS\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.dll
+D:\TOPBRAINS\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.pdb
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.AssemblyInfo.cs
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.sourcelink.json
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.dll
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\refint\MultiplicationTable.dll
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.pdb
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.genruntimeconfig.cache
+D:\TOPBRAINS\MultiplicationTable\obj\Debug\net10.0\ref\MultiplicationTable.dll
