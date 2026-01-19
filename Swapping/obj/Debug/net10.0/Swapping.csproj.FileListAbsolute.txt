@@ -1,0 +1,15 @@
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.AssemblyInfoInputs.cache
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.AssemblyInfo.cs
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.csproj.CoreCompileInputs.cache
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.sourcelink.json
+D:\TOPBRAINS\Swapping\bin\Debug\net10.0\Swapping.exe
+D:\TOPBRAINS\Swapping\bin\Debug\net10.0\Swapping.deps.json
+D:\TOPBRAINS\Swapping\bin\Debug\net10.0\Swapping.runtimeconfig.json
+D:\TOPBRAINS\Swapping\bin\Debug\net10.0\Swapping.dll
+D:\TOPBRAINS\Swapping\bin\Debug\net10.0\Swapping.pdb
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.dll
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\refint\Swapping.dll
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.pdb
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\Swapping.genruntimeconfig.cache
+D:\TOPBRAINS\Swapping\obj\Debug\net10.0\ref\Swapping.dll
