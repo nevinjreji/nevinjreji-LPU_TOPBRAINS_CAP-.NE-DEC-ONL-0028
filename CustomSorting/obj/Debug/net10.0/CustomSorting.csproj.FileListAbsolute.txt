@@ -1,0 +1,15 @@
+D:\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.exe
+D:\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.deps.json
+D:\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.runtimeconfig.json
+D:\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.dll
+D:\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.pdb
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfoInputs.cache
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfo.cs
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.csproj.CoreCompileInputs.cache
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.sourcelink.json
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.dll
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\refint\CustomSorting.dll
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.pdb
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.genruntimeconfig.cache
+D:\TOPBRAINS\CustomSorting\obj\Debug\net10.0\ref\CustomSorting.dll
