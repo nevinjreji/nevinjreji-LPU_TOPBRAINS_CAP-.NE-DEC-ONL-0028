@@ -1,0 +1,15 @@
+D:\CAPGEM\Meeting\bin\Debug\net10.0\Meeting.exe
+D:\CAPGEM\Meeting\bin\Debug\net10.0\Meeting.deps.json
+D:\CAPGEM\Meeting\bin\Debug\net10.0\Meeting.runtimeconfig.json
+D:\CAPGEM\Meeting\bin\Debug\net10.0\Meeting.dll
+D:\CAPGEM\Meeting\bin\Debug\net10.0\Meeting.pdb
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.AssemblyInfoInputs.cache
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.AssemblyInfo.cs
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.csproj.CoreCompileInputs.cache
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.sourcelink.json
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.dll
+D:\CAPGEM\Meeting\obj\Debug\net10.0\refint\Meeting.dll
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.pdb
+D:\CAPGEM\Meeting\obj\Debug\net10.0\Meeting.genruntimeconfig.cache
+D:\CAPGEM\Meeting\obj\Debug\net10.0\ref\Meeting.dll

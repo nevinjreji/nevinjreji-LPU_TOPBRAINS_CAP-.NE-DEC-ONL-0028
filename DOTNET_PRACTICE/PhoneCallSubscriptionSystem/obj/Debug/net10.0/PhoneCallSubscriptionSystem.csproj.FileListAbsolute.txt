@@ -1,0 +1,15 @@
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.AssemblyInfoInputs.cache
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.AssemblyInfo.cs
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.csproj.CoreCompileInputs.cache
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.sourcelink.json
+D:\CAPGEM\PhoneCallSubScriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.exe
+D:\CAPGEM\PhoneCallSubScriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.deps.json
+D:\CAPGEM\PhoneCallSubScriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.runtimeconfig.json
+D:\CAPGEM\PhoneCallSubScriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.dll
+D:\CAPGEM\PhoneCallSubScriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.pdb
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.dll
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\refint\PhoneCallSubscriptionSystem.dll
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.pdb
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.genruntimeconfig.cache
+D:\CAPGEM\PhoneCallSubScriptionSystem\obj\Debug\net10.0\ref\PhoneCallSubscriptionSystem.dll

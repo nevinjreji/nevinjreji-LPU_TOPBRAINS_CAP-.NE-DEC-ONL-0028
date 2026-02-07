@@ -1,0 +1,15 @@
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.AssemblyInfoInputs.cache
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.AssemblyInfo.cs
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.csproj.CoreCompileInputs.cache
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.sourcelink.json
+D:\CAPGEM\MultiDelegates\bin\Debug\net10.0\MultiDelegates.exe
+D:\CAPGEM\MultiDelegates\bin\Debug\net10.0\MultiDelegates.deps.json
+D:\CAPGEM\MultiDelegates\bin\Debug\net10.0\MultiDelegates.runtimeconfig.json
+D:\CAPGEM\MultiDelegates\bin\Debug\net10.0\MultiDelegates.dll
+D:\CAPGEM\MultiDelegates\bin\Debug\net10.0\MultiDelegates.pdb
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.dll
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\refint\MultiDelegates.dll
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.pdb
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\MultiDelegates.genruntimeconfig.cache
+D:\CAPGEM\MultiDelegates\obj\Debug\net10.0\ref\MultiDelegates.dll

@@ -1,0 +1,15 @@
+D:\CAPGEM\LotterySystem\bin\Debug\net10.0\LotterySystem.exe
+D:\CAPGEM\LotterySystem\bin\Debug\net10.0\LotterySystem.deps.json
+D:\CAPGEM\LotterySystem\bin\Debug\net10.0\LotterySystem.runtimeconfig.json
+D:\CAPGEM\LotterySystem\bin\Debug\net10.0\LotterySystem.dll
+D:\CAPGEM\LotterySystem\bin\Debug\net10.0\LotterySystem.pdb
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.AssemblyInfoInputs.cache
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.AssemblyInfo.cs
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.csproj.CoreCompileInputs.cache
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.sourcelink.json
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.dll
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\refint\LotterySystem.dll
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.pdb
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\LotterySystem.genruntimeconfig.cache
+D:\CAPGEM\LotterySystem\obj\Debug\net10.0\ref\LotterySystem.dll

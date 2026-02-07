@@ -1,0 +1,15 @@
+D:\CAPGEM\EmployeeMeeting\bin\Debug\net10.0\EmployeeMeeting.exe
+D:\CAPGEM\EmployeeMeeting\bin\Debug\net10.0\EmployeeMeeting.deps.json
+D:\CAPGEM\EmployeeMeeting\bin\Debug\net10.0\EmployeeMeeting.runtimeconfig.json
+D:\CAPGEM\EmployeeMeeting\bin\Debug\net10.0\EmployeeMeeting.dll
+D:\CAPGEM\EmployeeMeeting\bin\Debug\net10.0\EmployeeMeeting.pdb
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.AssemblyInfoInputs.cache
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.AssemblyInfo.cs
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.csproj.CoreCompileInputs.cache
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.sourcelink.json
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.dll
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\refint\EmployeeMeeting.dll
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.pdb
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\EmployeeMeeting.genruntimeconfig.cache
+D:\CAPGEM\EmployeeMeeting\obj\Debug\net10.0\ref\EmployeeMeeting.dll

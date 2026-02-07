@@ -1,0 +1,15 @@
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.AssemblyInfoInputs.cache
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.AssemblyInfo.cs
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.csproj.CoreCompileInputs.cache
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.sourcelink.json
+D:\CAPGEM\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.exe
+D:\CAPGEM\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.deps.json
+D:\CAPGEM\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.runtimeconfig.json
+D:\CAPGEM\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.dll
+D:\CAPGEM\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.pdb
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.dll
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\refint\ProductInventoryManagement.dll
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.pdb
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.genruntimeconfig.cache
+D:\CAPGEM\ProductInventoryManagement\obj\Debug\net10.0\ref\ProductInventoryManagement.dll

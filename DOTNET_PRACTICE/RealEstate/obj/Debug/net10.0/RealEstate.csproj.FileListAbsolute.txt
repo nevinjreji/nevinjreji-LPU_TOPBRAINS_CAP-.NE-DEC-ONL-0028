@@ -1,0 +1,15 @@
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.AssemblyInfoInputs.cache
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.AssemblyInfo.cs
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.csproj.CoreCompileInputs.cache
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.sourcelink.json
+D:\CAPGEM\RealEstate\bin\Debug\net10.0\RealEstate.exe
+D:\CAPGEM\RealEstate\bin\Debug\net10.0\RealEstate.deps.json
+D:\CAPGEM\RealEstate\bin\Debug\net10.0\RealEstate.runtimeconfig.json
+D:\CAPGEM\RealEstate\bin\Debug\net10.0\RealEstate.dll
+D:\CAPGEM\RealEstate\bin\Debug\net10.0\RealEstate.pdb
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.dll
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\refint\RealEstate.dll
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.pdb
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\RealEstate.genruntimeconfig.cache
+D:\CAPGEM\RealEstate\obj\Debug\net10.0\ref\RealEstate.dll

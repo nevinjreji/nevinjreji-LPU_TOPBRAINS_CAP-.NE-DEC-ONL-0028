@@ -1,0 +1,15 @@
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.AssemblyInfoInputs.cache
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.AssemblyInfo.cs
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.csproj.CoreCompileInputs.cache
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.sourcelink.json
+D:\CAPGEM\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.exe
+D:\CAPGEM\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.deps.json
+D:\CAPGEM\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.runtimeconfig.json
+D:\CAPGEM\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.dll
+D:\CAPGEM\CalculateNumbers\bin\Debug\net10.0\CalculateNumbers.pdb
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.dll
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\refint\CalculateNumbers.dll
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.pdb
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\CalculateNumbers.genruntimeconfig.cache
+D:\CAPGEM\CalculateNumbers\obj\Debug\net10.0\ref\CalculateNumbers.dll

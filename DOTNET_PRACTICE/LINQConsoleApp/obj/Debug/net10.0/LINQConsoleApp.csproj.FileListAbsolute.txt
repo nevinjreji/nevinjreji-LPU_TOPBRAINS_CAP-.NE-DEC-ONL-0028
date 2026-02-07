@@ -1,0 +1,15 @@
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.AssemblyInfoInputs.cache
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.AssemblyInfo.cs
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.csproj.CoreCompileInputs.cache
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.sourcelink.json
+D:\CAPGEM\LINQConsoleApp\bin\Debug\net10.0\LINQConsoleApp.exe
+D:\CAPGEM\LINQConsoleApp\bin\Debug\net10.0\LINQConsoleApp.deps.json
+D:\CAPGEM\LINQConsoleApp\bin\Debug\net10.0\LINQConsoleApp.runtimeconfig.json
+D:\CAPGEM\LINQConsoleApp\bin\Debug\net10.0\LINQConsoleApp.dll
+D:\CAPGEM\LINQConsoleApp\bin\Debug\net10.0\LINQConsoleApp.pdb
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.dll
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\refint\LINQConsoleApp.dll
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.pdb
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\LINQConsoleApp.genruntimeconfig.cache
+D:\CAPGEM\LINQConsoleApp\obj\Debug\net10.0\ref\LINQConsoleApp.dll

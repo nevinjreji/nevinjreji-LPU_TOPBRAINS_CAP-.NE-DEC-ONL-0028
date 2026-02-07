@@ -1,0 +1,15 @@
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfo.cs
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.sourcelink.json
+D:\CAPGEM\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.exe
+D:\CAPGEM\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.deps.json
+D:\CAPGEM\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.runtimeconfig.json
+D:\CAPGEM\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.dll
+D:\CAPGEM\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.pdb
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.dll
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\refint\LibraryManagementSystem.dll
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.pdb
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.genruntimeconfig.cache
+D:\CAPGEM\LibraryManagementSystem\obj\Debug\net10.0\ref\LibraryManagementSystem.dll

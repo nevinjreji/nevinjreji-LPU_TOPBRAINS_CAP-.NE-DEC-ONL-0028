@@ -1,0 +1,15 @@
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.AssemblyInfoInputs.cache
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.AssemblyInfo.cs
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.csproj.CoreCompileInputs.cache
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.sourcelink.json
+D:\CAPGEM\Day6Assignment\bin\Debug\net10.0\Day6Assignment.exe
+D:\CAPGEM\Day6Assignment\bin\Debug\net10.0\Day6Assignment.deps.json
+D:\CAPGEM\Day6Assignment\bin\Debug\net10.0\Day6Assignment.runtimeconfig.json
+D:\CAPGEM\Day6Assignment\bin\Debug\net10.0\Day6Assignment.dll
+D:\CAPGEM\Day6Assignment\bin\Debug\net10.0\Day6Assignment.pdb
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.dll
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\refint\Day6Assignment.dll
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.pdb
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\Day6Assignment.genruntimeconfig.cache
+D:\CAPGEM\Day6Assignment\obj\Debug\net10.0\ref\Day6Assignment.dll

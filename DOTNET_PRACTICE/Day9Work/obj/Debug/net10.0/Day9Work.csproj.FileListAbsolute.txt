@@ -1,0 +1,5 @@
+D:\CAPGEM\Day9Work\obj\Debug\net10.0\Day9Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\Day9Work\obj\Debug\net10.0\Day9Work.AssemblyInfoInputs.cache
+D:\CAPGEM\Day9Work\obj\Debug\net10.0\Day9Work.AssemblyInfo.cs
+D:\CAPGEM\Day9Work\obj\Debug\net10.0\Day9Work.csproj.CoreCompileInputs.cache
+D:\CAPGEM\Day9Work\obj\Debug\net10.0\Day9Work.sourcelink.json

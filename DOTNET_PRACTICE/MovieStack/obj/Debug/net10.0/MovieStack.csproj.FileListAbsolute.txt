@@ -1,0 +1,15 @@
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.AssemblyInfoInputs.cache
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.AssemblyInfo.cs
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.csproj.CoreCompileInputs.cache
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.sourcelink.json
+D:\CAPGEM\MovieStack\bin\Debug\net10.0\MovieStack.exe
+D:\CAPGEM\MovieStack\bin\Debug\net10.0\MovieStack.deps.json
+D:\CAPGEM\MovieStack\bin\Debug\net10.0\MovieStack.runtimeconfig.json
+D:\CAPGEM\MovieStack\bin\Debug\net10.0\MovieStack.dll
+D:\CAPGEM\MovieStack\bin\Debug\net10.0\MovieStack.pdb
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.dll
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\refint\MovieStack.dll
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.pdb
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\MovieStack.genruntimeconfig.cache
+D:\CAPGEM\MovieStack\obj\Debug\net10.0\ref\MovieStack.dll

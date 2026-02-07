@@ -1,0 +1,15 @@
+D:\CAPGEM\BakeMeAwish\bin\Debug\net10.0\BakeMeAWish.exe
+D:\CAPGEM\BakeMeAwish\bin\Debug\net10.0\BakeMeAWish.deps.json
+D:\CAPGEM\BakeMeAwish\bin\Debug\net10.0\BakeMeAWish.runtimeconfig.json
+D:\CAPGEM\BakeMeAwish\bin\Debug\net10.0\BakeMeAWish.dll
+D:\CAPGEM\BakeMeAwish\bin\Debug\net10.0\BakeMeAWish.pdb
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.AssemblyInfoInputs.cache
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.AssemblyInfo.cs
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.csproj.CoreCompileInputs.cache
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.sourcelink.json
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.dll
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\refint\BakeMeAWish.dll
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.pdb
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\BakeMeAWish.genruntimeconfig.cache
+D:\CAPGEM\BakeMeAwish\obj\Debug\net10.0\ref\BakeMeAWish.dll

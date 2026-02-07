@@ -1,0 +1,15 @@
+D:\CAPGEM\EvenList\bin\Debug\net10.0\EvenList.exe
+D:\CAPGEM\EvenList\bin\Debug\net10.0\EvenList.deps.json
+D:\CAPGEM\EvenList\bin\Debug\net10.0\EvenList.runtimeconfig.json
+D:\CAPGEM\EvenList\bin\Debug\net10.0\EvenList.dll
+D:\CAPGEM\EvenList\bin\Debug\net10.0\EvenList.pdb
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.AssemblyInfoInputs.cache
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.AssemblyInfo.cs
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.csproj.CoreCompileInputs.cache
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.sourcelink.json
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.dll
+D:\CAPGEM\EvenList\obj\Debug\net10.0\refint\EvenList.dll
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.pdb
+D:\CAPGEM\EvenList\obj\Debug\net10.0\EvenList.genruntimeconfig.cache
+D:\CAPGEM\EvenList\obj\Debug\net10.0\ref\EvenList.dll
