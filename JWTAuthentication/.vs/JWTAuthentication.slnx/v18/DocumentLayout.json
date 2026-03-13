@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\migrations\\20260313045321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\migrations\\20260313045321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|d:\\capgemini_visual_studio\\jwtauthentication\\jwtauthentication\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF870281-4D55-4469-BE37-66C189E2D9D5}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260313045321_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Migrations\\20260313045321_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Migrations\\20260313045321_InitialCreate.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Migrations\\20260313045321_InitialCreate.cs",
+              "RelativeToolTip": "JWTAuthentication\\Migrations\\20260313045321_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:53:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\RegisterModel.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:10:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\appsettings.json",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeToolTip": "JWTAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T04:08:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:17:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTAuthentication.http",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication.http",
+              "RelativeDocumentMoniker": "JWTAuthentication\\JWTAuthentication.http",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication.http",
+              "RelativeToolTip": "JWTAuthentication\\JWTAuthentication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-13T04:24:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\UserRoles.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:10:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\LoginModel.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:10:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Program.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeToolTip": "JWTAuthentication\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:12:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:09:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\Response.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\Response.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:10:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "D:\\CAPGEMINI_VISUAL_STUDIO\\JWTAuthentication\\JWTAuthentication\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "JWTAuthentication\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:09:34.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
