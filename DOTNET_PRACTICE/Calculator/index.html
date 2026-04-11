@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <section class="calculator-card">
+      <header class="hero">
+        <p class="eyebrow">Index</p>
+        <h1>Simple Calculator</h1>
+      </header>
+
+      <form id="calculator-form" class="calculator-form" novalidate>
+        <div class="field">
+          <label for="first-number">First Number (Integer)</label>
+          <input id="first-number" name="first-number" type="number" inputmode="decimal" placeholder="45" required>
+        </div>
+
+        <div class="field">
+          <label for="second-number">Second Number (Integer)</label>
+          <input id="second-number" name="second-number" type="number" inputmode="decimal" placeholder="12" required>
+        </div>
+
+        <div class="actions" aria-label="Calculator actions">
+          <button type="button" class="action-btn add" data-operation="add">Add</button>
+          <button type="button" class="action-btn subtract" data-operation="subtract">Subtract</button>
+          <button type="button" class="action-btn multiply" data-operation="multiply">Multiply</button>
+          <button type="button" class="action-btn divide" data-operation="divide">Division</button>
+        </div>
+
+        <p id="message" class="message" role="alert" aria-live="polite"></p>
+      </form>
+
+      <section class="result-panel" aria-live="polite">
+        <p class="result-label">Calculated Result</p>
+        <p id="result-text" class="result-text">Enter two numbers and choose an operation.</p>
+      </section>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
